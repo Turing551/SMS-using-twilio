@@ -1,4 +1,4 @@
 twilio:
-  account_sid: #your account sid
-  auth_token: #your auth token
-  trial_number: # your trial number
+  account_sid: AC4554e9696f92ea470760d213877ec1f7
+  auth_token: 07a210ae4552416cdcb540a6e5c10f59
+  trial_number: +16194737231
