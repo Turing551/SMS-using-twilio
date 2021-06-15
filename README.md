@@ -6,6 +6,5 @@ twilio:
   auth_token: #your auth token
   trial_number: # your trial number
 ```
-- Run the application
-- Start sending sms's
-- That simple
+- Run the application & Start sending sms
+
